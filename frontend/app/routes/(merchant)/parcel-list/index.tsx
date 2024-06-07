@@ -240,8 +240,8 @@ export function ParcelTableTr({ parcel }: { parcel: Parcel }) {
                 <ParcelStatusBadge status={parcel.parcelStatus.name} />
             </Td>
             <Td>
-                <Text>Tk. {parcel.parcelCashCollection} Cash Collection</Text>
-                <Text>Tk. {parcel.parcelCharge} Charge</Text>
+                <Text>EGP. {parcel.parcelCashCollection} Cash Collection</Text>
+                <Text>EGP. {parcel.parcelCharge} Charge</Text>
             </Td>
             {/* <Td>Regular Delivery</Td> */}
             <Td>{moment(parcel.updatedAt).format('LL')}</Td>

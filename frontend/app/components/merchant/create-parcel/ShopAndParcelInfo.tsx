@@ -75,12 +75,12 @@ const ShopAndParcelInfo: FC<ShopAndParcelInfoProps> = ({ actionData }) => {
                     <Flex>
                         <Text>Delivery charge</Text>
                         <Spacer />
-                        <Text>{deliveryCharge} TK</Text>
+                        <Text>{deliveryCharge} EGP</Text>
                     </Flex>
                     <Flex>
                         <Text>COD charge</Text>
                         <Spacer />
-                        <Text>{COD_CHARGE} Tk</Text>
+                        <Text>{COD_CHARGE} EGP</Text>
                     </Flex>
                 </Stack>
                 <Divider borderColor="gray.500" />
@@ -97,7 +97,7 @@ const ShopAndParcelInfo: FC<ShopAndParcelInfoProps> = ({ actionData }) => {
                             textAlign="right"
                             readOnly
                         />
-                        <Text>Tk</Text>
+                        <Text>EGP</Text>
                     </Flex>
                 </Flex>
             </Stack>

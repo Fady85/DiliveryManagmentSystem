@@ -139,17 +139,17 @@ function InvoicePage() {
                                                             Delivery charge
                                                         </div>
                                                         <div className="mt-0.5 text-slate-500 sm:hidden">
-                                                            1 unit at 200.00 Tk
+                                                            1 unit at 200.00 EGP
                                                         </div>
                                                     </td>
                                                     <td className="hidden px-3 py-4 text-sm text-right text-slate-500 sm:table-cell">
                                                         1
                                                     </td>
                                                     <td className="hidden px-3 py-4 text-sm text-right text-slate-500 sm:table-cell">
-                                                        200.00 Tk
+                                                        200.00 EGP
                                                     </td>
                                                     <td className="py-4 pl-3 pr-4 text-sm text-right text-slate-500 sm:pr-6 md:pr-0">
-                                                        200.00 Tk
+                                                        200.00 EGP
                                                     </td>
                                                 </tr>
                                                 <tr className="border-b border-slate-200">
@@ -165,10 +165,10 @@ function InvoicePage() {
                                                         1
                                                     </td>
                                                     <td className="hidden px-3 py-4 text-sm text-right text-slate-500 sm:table-cell">
-                                                        2.00 Tk
+                                                        2.00 EGP
                                                     </td>
                                                     <td className="py-4 pl-3 pr-4 text-sm text-right text-slate-500 sm:pr-6 md:pr-0">
-                                                        2.00 Tk
+                                                        2.00 EGP
                                                     </td>
                                                 </tr>
                                             </tbody>
@@ -188,7 +188,7 @@ function InvoicePage() {
                                                         Subtotal
                                                     </th>
                                                     <td className="pt-6 pl-3 pr-4 text-sm text-right text-slate-500 sm:pr-6 md:pr-0">
-                                                        200.00 Tk
+                                                        200.00 EGP
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -206,7 +206,7 @@ function InvoicePage() {
                                                         Discount
                                                     </th>
                                                     <td className="pt-6 pl-3 pr-4 text-sm text-right text-slate-500 sm:pr-6 md:pr-0">
-                                                        0.00 Tk
+                                                        0.00 EGP
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -224,7 +224,7 @@ function InvoicePage() {
                                                         Tax
                                                     </th>
                                                     <td className="pt-4 pl-3 pr-4 text-sm text-right text-slate-500 sm:pr-6 md:pr-0">
-                                                        0.00 Tk
+                                                        0.00 EGP
                                                     </td>
                                                 </tr>
                                                 <tr>
@@ -242,7 +242,7 @@ function InvoicePage() {
                                                         Total
                                                     </th>
                                                     <td className="pt-4 pl-3 pr-4 text-sm font-normal text-right text-slate-700 sm:pr-6 md:pr-0">
-                                                        200.00 Tk
+                                                        200.00 EGP
                                                     </td>
                                                 </tr>
                                             </tfoot>
