@@ -74,8 +74,7 @@ function Home() {
                         >
                             <Box>
                                 <Text color="white" lineHeight="base">
-                                    আমাদের অনলাইন ট্র্যাকিং সার্ভিস দিয়ে
-                                    কুরিয়ার ট্র্যাক করুন
+                                    Developed By atomic-cube.com
                                 </Text>
                             </Box>
                             <Box>

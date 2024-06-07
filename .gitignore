@@ -33,3 +33,12 @@ lerna-debug.log*
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+*.199692
+*.199884
+frontend/.env.example
+frontend/.env.example
+frontend/.env.example
+*.example
+*.example
+package-lock.json
+package.json
