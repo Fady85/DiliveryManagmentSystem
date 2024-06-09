@@ -130,10 +130,10 @@ function AddShopDrawer({
                                         placeholder="Pickup address"
                                     />
                                 </FormControl>
-                                {/* <FormControl >
+                                <FormControl >
                                     <FormLabel>Pickup area</FormLabel>
                                     <SearchableAreaSelect name="pickupArea" />
-                                </FormControl> */}
+                                </FormControl>
                                 <FormControl isRequired>
                                     <FormLabel>Pickup phone</FormLabel>
                                     <Input
@@ -143,15 +143,15 @@ function AddShopDrawer({
                                         placeholder="Pickup phone"
                                     />
                                 </FormControl>
-                                {/* <FormControl >
+                                <FormControl >
                                     <FormLabel>Product Type</FormLabel>
                                     <ShopProductParentCategoriesSelect
                                         placeholder="Choose product type"
                                         name="productType"
                                     />
-                                </FormControl> */}
+                                </FormControl>
 
-                                {/* <FormControl>
+                                <FormControl>
                                     <FormLabel>
                                         Product Sub Category Type
                                     </FormLabel>
@@ -159,7 +159,7 @@ function AddShopDrawer({
                                         placeholder="Choose sub Category type"
                                         name="subProductType"
                                     />
-                                </FormControl> */}
+                                </FormControl>
                             </SimpleGrid>
                         </ShopProductCatSelectProvider>
 

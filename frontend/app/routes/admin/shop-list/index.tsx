@@ -20,11 +20,11 @@ const columns = [
         cell: (info) => info.getValue(),
         footer: (info) => info.column.id,
     }),
-    // columnHelper.accessor('productType', {
-    //     header: () => 'Shop Product Type',
-    //     cell: (info) => info.getValue(),
-    //     footer: (info) => info.column.id,
-    // }),
+    columnHelper.accessor('productType', {
+        header: () => 'Shop Product Type',
+        cell: (info) => info.getValue(),
+        footer: (info) => info.column.id,
+    }),
     columnHelper.accessor('user', {
         header: () => 'Merchant Name',
         cell: (info) => info.getValue()?.name,

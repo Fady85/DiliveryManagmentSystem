@@ -207,13 +207,13 @@ function RegisterForm({
                             focusBorderColor="primary.500"
                         />
                     </FormControl>
-                    {/* <FormControl >
+                    <FormControl >
                         <FormLabel>Product Type</FormLabel>
                         <ShopProductParentCategoriesSelect
                             placeholder="Choose product type"
                             name="productType"
                         />
-                    </FormControl> */}
+                    </FormControl>
                     <FormControl isRequired>
                         <FormLabel>Product Sub Category Type</FormLabel>
                         <ShopProductChildCategoriesSelect
