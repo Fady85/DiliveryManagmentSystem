@@ -75,7 +75,7 @@ function AddPickupPointDrawer({
                                 />
                             </FormControl>
 
-                            <FormControl isRequired>
+                            <FormControl>
                                 <FormLabel>Pickup area</FormLabel>
                                 <SearchableAreaSelect name="pickupArea" />
                             </FormControl>

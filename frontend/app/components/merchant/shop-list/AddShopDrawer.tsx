@@ -130,7 +130,7 @@ function AddShopDrawer({
                                         placeholder="Pickup address"
                                     />
                                 </FormControl>
-                                <FormControl isRequired>
+                                <FormControl >
                                     <FormLabel>Pickup area</FormLabel>
                                     <SearchableAreaSelect name="pickupArea" />
                                 </FormControl>
@@ -143,7 +143,7 @@ function AddShopDrawer({
                                         placeholder="Pickup phone"
                                     />
                                 </FormControl>
-                                <FormControl isRequired>
+                                <FormControl >
                                     <FormLabel>Product Type</FormLabel>
                                     <ShopProductParentCategoriesSelect
                                         placeholder="Choose product type"
@@ -151,7 +151,7 @@ function AddShopDrawer({
                                     />
                                 </FormControl>
 
-                                <FormControl isRequired>
+                                <FormControl>
                                     <FormLabel>
                                         Product Sub Category Type
                                     </FormLabel>
