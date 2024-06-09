@@ -75,10 +75,10 @@ function AddPickupPointDrawer({
                                 />
                             </FormControl>
 
-                            <FormControl>
+                            {/* <FormControl>
                                 <FormLabel>Pickup area</FormLabel>
                                 <SearchableAreaSelect name="pickupArea" />
-                            </FormControl>
+                            </FormControl> */}
                             <FormControl isRequired>
                                 <FormLabel>Pickup phone</FormLabel>
                                 <Input
